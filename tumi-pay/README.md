@@ -13,6 +13,27 @@
 
 Nota: el singleton tambien se puede utilizar como funcion envebida  de laravel
 
-# tarea no realizadas
+# tarea  realizadas en el back 
+- arquitecura
+- conexion a bd
+- desarrollo de apis
+  -post
+  -get
+- prueba unitaria
+# tarea realizadas en el front
+- consumo de apis
+- desarollo de componentes dinamicos y funcionales
+- desarrollo de buscador
+- interaccion y navegacion con los componentes
+# tareas no realizadas front-end
+ - modal de favoritos
+   - hacer llmamado aun componente y que haga  una accion con un array y llamnado una funcion agrege a esta lista de favoritos haciendolo reactivo
+ - eliminacion
+   - es hacer  una llamada a que filtre  los dato o id que sean difernte a este eliminadolo o pasando el estado a un hook
+ - paginacion
+   - existe un funcion en el back que utliza la sentecia  offset y limit  por ejemplo yo haria un hook, cuando se le de click un siguien cambia una variable que 
+    es el offset y consumiso la api por clicks haciendolo rwctivo al paso
+ # Nota: Por fis contar el primer commit como tiempo inicial, muchas gracias por la oportunidad 
+   
 
 
