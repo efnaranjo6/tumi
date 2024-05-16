@@ -34,6 +34,7 @@ Nota: el singleton tambien se puede utilizar como funcion envebida  de laravel
    - existe un funcion en el back que utliza la sentecia  offset y limit  por ejemplo yo haria un hook, cuando se le de click un siguien cambia una variable que 
     es el offset y consumiso la api por clicks haciendolo rwctivo al paso
  # Nota: Por fis contar el primer commit como tiempo inicial, muchas gracias por la oportunidad 
+
    
 
 
